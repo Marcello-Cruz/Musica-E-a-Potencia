@@ -11,9 +11,6 @@ Console.Writeline ("Moleque, descabelei na bronha, vou fumar muita maconha, yo" 
 Console.Writeline ("(Caraio) 'Cê não pode me impedir (Caraio) 'Cê não vai me impedir" foreground color = ConsoleColor.Green);
 Console.Writeline ("(Caraio) Não dá pra me impedir, pode tentar me impedir" foreground color = ConsoleColor.Green);
 Console.Writeline ("Mas aí, não dá (Não dá)" foreground color = ConsoleColor.Green);
-
-Console.Readline ("");
-
 Console.Writeline ("Mulheres, mulheres, joias raras" foreground color = ConsoleColor.Green);
 Console.Writeline ("Carros rápidos, carros rápidos, muitas gatas, yo" foreground color = ConsoleColor.Green);
 Console.Writeline ("Minha cama tá lotada, tô cheio de grana, yo" foreground color = ConsoleColor.Green);
@@ -27,3 +24,5 @@ Console.Writeline ("Moleque, descabelei na bronha, vou fumar muita maconha, yo" 
 Console.Writeline ("(Caraio) 'Cê não pode me impedir (Caraio) 'Cê não vai me impedir" foreground color = ConsoleColor.Green);
 Console.Writeline ("(Caraio) Não dá pra me impedir, pode tentar me impedir" foreground color = ConsoleColor.Green);
 Console.Writeline ("Mas aí, não dá (Não dá)" foreground color = ConsoleColor.Green);
+
+/*/comentario fds
